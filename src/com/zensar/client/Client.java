@@ -11,6 +11,7 @@ public class Client {
 	    System.out.println(a.mul(2, 3));
 	    System.out.println(a.div(2, 2));
 	    System.out.println("this is adarsh");
+	    System.out.println("hii");
 	}
 
 }
