@@ -4,6 +4,7 @@ import com.zensar.code.Addition;
 
 public class Client {
 
+	int a =10;
 	public static void main(String[] args) {
 		Addition a= new Addition();
 	    System.out.println(a.add(10, 5));
