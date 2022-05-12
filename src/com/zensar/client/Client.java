@@ -15,4 +15,7 @@ public class Client {
 	int p=11;
 }
 
+	public String some(){
+	    return "this is what";
+	}
 }
