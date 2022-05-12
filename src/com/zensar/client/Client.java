@@ -7,6 +7,7 @@ public class Client {
 
 	int a =10;
 	int b=6;
+	String str="vivek"
 
 	private String name;
 	public static void main(String[] args) {
