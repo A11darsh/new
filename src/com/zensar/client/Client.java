@@ -7,7 +7,10 @@ public class Client {
 
 	int a =10;
 	int b=6;
+
 	String str="adarsh"
+	String str="vivek"
+    
 	private String name;
 	public static void main(String[] args) {
 		Addition a= new Addition();
