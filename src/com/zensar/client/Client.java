@@ -4,6 +4,10 @@ import com.zensar.code.Addition;
 
 public class Client {
 
+
+	int a =10;
+	int b=6;
+
 	private String name;
 	public static void main(String[] args) {
 		Addition a= new Addition();
